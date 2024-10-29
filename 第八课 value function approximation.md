@@ -35,3 +35,15 @@ value function的两种主要的选择，线性或者神经网络
 3.Sarsa+value function approximation
 
 ![0aff6cf137ced7dc69471cf940f9ea96](assets/0aff6cf137ced7dc69471cf940f9ea96.png)
+
+4.q-learning+value function approximation(不常用，因为中间要计算梯度)
+
+![f5d8bc2405bc7416b1fcef061ed3c0c6](assets/f5d8bc2405bc7416b1fcef061ed3c0c6.png)
+
+4.Deep Q-learning/Deep Q-network(DQN)
+
+![8dd710d93468792d41dfdc7713eec7ed](assets/8dd710d93468792d41dfdc7713eec7ed.png)
+
+![4930a509f4c6bb9f0a52f8def14c7cf0](assets/4930a509f4c6bb9f0a52f8def14c7cf0.png)
+
+![9c14af6667a97159c3845a8b16c5d6ee](assets/9c14af6667a97159c3845a8b16c5d6ee.png)
