@@ -10,6 +10,8 @@ bellman optimality equation只是在bellman equation前面加了max pai
 
 可以用以下迭代算法求解BOE，得到唯一最优解state value，和与之对应的policy
 
+注：该迭代算法被称为值迭代算法value iteration
+
 ![80e543a024ab00adc65a81fd63444691](assets/80e543a024ab00adc65a81fd63444691.png)
 
 得到的唯一最优解state value，是所有state value中最大的
