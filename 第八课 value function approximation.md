@@ -36,7 +36,7 @@ value function的两种主要的选择，线性或者神经网络
 
 ![0aff6cf137ced7dc69471cf940f9ea96](assets/0aff6cf137ced7dc69471cf940f9ea96.png)
 
-4.q-learning+value function approximation(不常用，因为中间要计算梯度)
+4.q-learning+value function approximation(不常用，因为用神经网络作为action value function approximation，更新参数时要计算神经网络梯度)
 
 ![f5d8bc2405bc7416b1fcef061ed3c0c6](assets/f5d8bc2405bc7416b1fcef061ed3c0c6.png)
 
