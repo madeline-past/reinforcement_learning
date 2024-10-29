@@ -64,6 +64,8 @@ unify Sarsa and Monte Carlo
 
 on/off policy
 
+这里关于on/off policy的讨论仅限于直接求解optimal policy。如果是给定策略求对应的state/action value，这就根本谈不上on/off policy。
+
 ![2680e708c4fce054b736d7f579d8d280](assets/2680e708c4fce054b736d7f579d8d280.png)
 
 6.conclusion
