@@ -55,3 +55,9 @@ actor:policy update algorithm
 ![d1c0f7801943c3f8c298e67a7aa57f2e](assets/d1c0f7801943c3f8c298e67a7aa57f2e.png)
 
 ![982acd483ff4ec91596f3bf7b3d2854b](assets/982acd483ff4ec91596f3bf7b3d2854b.png)
+
+5.deterministic actor critic(DPG)
+
+![8717ac91fee52cba62de58c5e7430866](assets/8717ac91fee52cba62de58c5e7430866.png)
+
+![f2c8587cffdeb3555032d8c79dae2367](assets/f2c8587cffdeb3555032d8c79dae2367.png)
