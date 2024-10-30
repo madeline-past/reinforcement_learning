@@ -58,6 +58,16 @@ actor:policy update algorithm
 
 5.deterministic actor critic(DPG)
 
+之前介绍的所有算法，其动作空间都是有限的。下面介绍的算法推广到了有无限个动作的情况。
+
+而且，之前的actor critic算法求出的policy都是stochastic的，下面介绍deterministic的情况。
+
 ![8717ac91fee52cba62de58c5e7430866](assets/8717ac91fee52cba62de58c5e7430866.png)
 
-![f2c8587cffdeb3555032d8c79dae2367](assets/f2c8587cffdeb3555032d8c79dae2367.png)
+
+
+![7faba59647b24eae1f5ed9c7ad410fe6](assets/7faba59647b24eae1f5ed9c7ad410fe6.png)
+
+![301c7d9d57a66262d064f9a77e99d740](assets/301c7d9d57a66262d064f9a77e99d740.png)
+
+![e07e572d71bb9c0ec2c15e7f7d302a41](assets/e07e572d71bb9c0ec2c15e7f7d302a41.png)
