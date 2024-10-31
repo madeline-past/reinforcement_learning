@@ -12,7 +12,7 @@
 
 两天快速复习完了强化学习，接下来准备直接看篇CMA论文(Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning  for Vision-Language Navigation)直接实战
 
-
+2024.10.31update:CMA已看完，学到不少东西，果然还得是实战。论文精读分析我已放到vln仓库。
 
 
 
