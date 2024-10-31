@@ -2,6 +2,10 @@
 
 直接求解最优策略
 
+通过计算所有state value/immediate reward value之和作为loss来评估策略的好坏，进而梯度上升优化策略。
+
+策略函数可以任选。可直接选取神经网络。
+
 ![5f80f102462f57ad13f26168c2cec633](assets/5f80f102462f57ad13f26168c2cec633.png)
 
 ![1d8c2f8c2336777ba74c1c58efbbc366](assets/1d8c2f8c2336777ba74c1c58efbbc366.png)
