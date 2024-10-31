@@ -4,7 +4,7 @@
 
 通过计算所有state value/immediate reward value之和作为loss来评估策略的好坏，进而梯度上升优化策略。
 
-策略函数可以任选。可直接选取神经网络。
+策略函数可以任选。可直接选取神经网络。注意，在本章中还需要将神经网络对某一state的每个action的输出送入softmax中，最终作为策略函数的输出。这样就会使得策略是stochastic。
 
 ![5f80f102462f57ad13f26168c2cec633](assets/5f80f102462f57ad13f26168c2cec633.png)
 
