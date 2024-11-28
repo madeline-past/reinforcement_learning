@@ -60,7 +60,7 @@ actor:policy update algorithm
 
 之前介绍的所有算法，其动作空间都是有限的。下面介绍的算法推广到了有无限个动作的情况。
 
-而且，之前的actor critic算法求出的policy都是stochastic的，下面介绍deterministic的情况。
+而且，之前的actor critic算法求出的policy都是stochastic的，下面介绍的算法是deterministic。
 
 ![8717ac91fee52cba62de58c5e7430866](assets/8717ac91fee52cba62de58c5e7430866.png)
 
