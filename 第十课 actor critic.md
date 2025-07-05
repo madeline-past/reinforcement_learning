@@ -8,6 +8,8 @@ critic:sarsa+value function approximation
 
 actor:policy update algorithm
 
+这里状态概率分布正对应该policy下状态的stationary distribution
+
 ![6fa9ef21ab4b234bdaa6994931982a39](assets/6fa9ef21ab4b234bdaa6994931982a39.png)
 
 2.advantage actor critic(A2C)
